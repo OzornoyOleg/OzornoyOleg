@@ -6,10 +6,10 @@
 
 Мои умения:
 
--HTML
--CSS
--JAVASCRIPT
--GIT
+* HTML
+* CSS
+* JAVASCRIPT
+* GIT
 
 Мои контакты:
 

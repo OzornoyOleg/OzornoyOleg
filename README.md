@@ -10,7 +10,3 @@
 * CSS
 * JAVASCRIPT
 * GIT
-
-Мои контакты:
-
-E-mail: by.ryazan@yandex.ru
